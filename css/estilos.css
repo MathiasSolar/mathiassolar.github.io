@@ -1,0 +1,24 @@
+.logotipo{
+    width: 100px;
+    padding: 0;
+
+}
+
+.iconos-redes{
+    width: 30px;
+    margin: 10px 8px; 
+}
+
+.carouselExampleIndicators{
+    width: 100px;
+}
+
+.sps--abv{
+    background-color: transparent;
+    color: #000;
+}
+
+.sps--blw{
+    background-color: #2B2B2B;
+    color: #fff;
+}
